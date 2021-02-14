@@ -7,6 +7,7 @@ name = "pypi"
 django = "==3.0.7"
 djangorestframework = "*"
 pyjwt = "*"
+django-heroku = "*"
 
 [dev-packages]
 
